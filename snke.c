@@ -135,7 +135,7 @@ int main()
 
             case 224:
                 break;
-
+//errot
             case 80:
                 move(x, y, &l, c, len);
                 gotoxy(x[0], ++y[0]);
